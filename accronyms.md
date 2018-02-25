@@ -6,6 +6,8 @@ BFT: Byzantine Fault Tolerant
 
 DAG: Directed Acyclic Graph
 
+DAR: Distinguishable Assets Registry - EIP 821 (contracts for NFTs)
+
 DBFT: Delegated Byzantine Fault Tolerance (generally consensus algorithm to guarantee fault tolerance)
 
 IPFS: Inter-Planetary File System
@@ -13,6 +15,7 @@ IPNS: Inter-Planetary Name Space
 
 MDAG: Merkle Directed Acyclic Graph
 NFS: Network File System
+NFT: Non Fungible Token
 
 PBFT: Practical Byzantine Fault Tolerance [or] Proof of BFT
 
