@@ -4,11 +4,17 @@ BFT: Byzantine Fault Tolerant
 
 > Byzantine (meaning malicious, lying, ... bad intents)
 
+CTM: Continuous Token Model
+
 DAG: Directed Acyclic Graph
 
 DAR: Distinguishable Assets Registry - EIP 821 (contracts for NFTs)
 
 DBFT: Delegated Byzantine Fault Tolerance (generally consensus algorithm to guarantee fault tolerance)
+
+DCW: Democratic Collective Welfare
+
+FEAT: Forecasted Elastic Allocation Token
 
 IPFS: Inter-Planetary File System
 IPNS: Inter-Planetary Name Space
@@ -33,3 +39,6 @@ SFS: Self-Certified Filesystems
 
 
 State machine replication == atomic broadcast
+
+TCR: Token-Curated Registry
+TH: Token Holders

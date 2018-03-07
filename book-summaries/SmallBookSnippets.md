@@ -33,3 +33,42 @@ Building systems that reward and incentivize player, so they feel some accomplis
 
 [source](https://uxplanet.org/gamification-in-2017-top-5-key-principles-cef948254dad)
 
+----
+
+Data-ism - Steve lohr
+
+"Jobs may have been a high-tech product genius, but his intuition was not magic. It was the consequence of the experience and knowledge he had built into a sophisticated mental model of the world and how it works. That ability to mentally construct a model of the world that adapts with experience is a hallmark of human intelligence."
+
+Productivity gains - more wealth created per hour of labor - are the fuel of rising living standards, and a by-product of the efficiency that technology is supposed to generate.
+
+If data rules, the people whose skills and talents are most attuned to the new reality look like rulers.
+
+----
+
+#### The ultimate book of influence - Chris Helder (Sales)
+
+There is no truth in fine. Fine is something people use all the time to avoid looking at the truth.
+
+Once you have a level of certainty about your timeline, people will listen to what you have to say. It is very difficult to truly influence people if you are unclear.
+
+act as if: posture | eye contact | smile | gratitude | energy 
+
+---------
+
+#### InfoGraphics the power of storytelling
+
+Explorative:
+
+* Minimalist
+* only includes elements that represent data
+* seeks to communicate information
+* in the most clear, concise manner
+
+Narrative:
+
+* illustrative
+* Design-focused
+* Seeks to appeal to viewer with engaging visuals
+* informs and entertains
+
+
