@@ -32,8 +32,10 @@ VRF: Verifiable Random Function
 
 > allows a verifier to check with negligible effort that a prover has expanded a large amount of computational effort. (ie using computing power to handle fault tolerance)
 
+PLCR: Partial Lock Commit Reveal (voting scheme)
 
 POS: Proof Of Stake (using network consensus to handle fault tolerance)
+
 
 SFS: Self-Certified Filesystems
 
