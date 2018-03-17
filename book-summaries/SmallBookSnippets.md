@@ -72,3 +72,43 @@ Narrative:
 * informs and entertains
 
 
+----
+
+# 30-second-Anatomy-Gabrielle-Finn
+
+## Types of bone tissue
+
+1. Hard cortical bone
+2. Light trabecular bone
+
+The skeleton consists of 206 bones and makes up around 40% of the body weight.
+
+Adults completely replace their skeleton every 10 years or so.
+
+## Bone joints
+
+Joints allow the skeleton to move while also providing support and strength.
+
+3 classes: fibrous, cartilaginous, and synovial.
+
+## Ligaments cartillage & tendons
+
+All contain very high levels of structural protein collagen.
+
+* in cartillage, collagen is very hard and can withstand high stress and forces.
+* in ligaments, it is softer and allows for flexibility and stretching, while in tendons it is extremely strong and enables muscles to move very heavy bones.
+
+## The skull
+
+It consists of 22 bones.
+
+The cranium is like a box and the brain nestles inside it.
+
+
+* Each hand contains 27 bones.
+
+Muscles of facial expression arise from the facial bones of the skull.
+
+* Neck muscles enable a person to nod the head, swallow and breathe.
+
+* One average, the human heart beats 72 times per minunte - eq. 4320 times / hour, 37,843,200 / year
