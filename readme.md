@@ -14,6 +14,8 @@ DBFT: Delegated Byzantine Fault Tolerance (generally consensus algorithm to guar
 
 DCW: Democratic Collective Welfare
 
+DON: Decentralized Oracle Network
+
 FEAT: Forecasted Elastic Allocation Token
 
 IPFS: Inter-Planetary File System
@@ -45,6 +47,8 @@ SSSS: Shamir Secret Sharing Scheme (see [web-version](https://iancoleman.io/sham
 TCR: Token-Curated Registry
 
 TH: Token Holders
+
+RPC: Remote Process Call
 
 Extras:
 ------
