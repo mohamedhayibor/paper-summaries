@@ -1,6 +1,6 @@
 [Generalized second price auction](https://en.wikipedia.org/wiki/Generalized_second-price_auction)
 
-A non-truthful auction mechanism for multiple items. 
+A non-truthful auction mechanism for multiple items.
 
 1. Each bidder places a bid
 2. highest bidder gets the 1st slot, 2nd-highest,...
@@ -9,7 +9,6 @@ A non-truthful auction mechanism for multiple items.
 [Generalized 1st price auction](https://en.wikipedia.org/wiki/Generalized_first-price_auction)
 
 > highest bidder pays his bid on 1st slot, 2nd highest bidder pays their bid...
-
 
 [Quorum](https://en.wikipedia.org/wiki/Quorum)
 
@@ -24,8 +23,3 @@ A quorum: the minimum number of votes that a distributed transaction has to obta
 ---------
 
 hierarchical Deterministic Wallet: represents a large tree of private keys can reliably be reproduced from an initial seed. Each node in the tree is represented by an HDNode which can be descended into.
-
-
-
-
-
